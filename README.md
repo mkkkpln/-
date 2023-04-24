@@ -3,3 +3,5 @@
 Лабораторные работы по дисциплине "Основы профессиональной деятельности" 1 курс, 1-2 семестры
 
 Полезные статьи для лабораторной 5 [(1 часть)](https://vk.com/@p3113-ya-vvodil-menya-vyvodili-ili-manual-k-5-laboratornoi-po-opd), [(2 часть)](https://vk.com/@p3113-bnopnya-vhruk-ili-manual-k-5-laboratornoi-po-opd-2-chast).
+
+[(Вопросы к защите)](https://se.ifmo.ru/~ninomt/questions.html)
